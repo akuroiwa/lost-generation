@@ -1,0 +1,297 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Akihiro Kuroiwa
+# This file is distributed under the same license as the pledge-2023
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pledge-2023 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 20:05+0900\n"
+"PO-Revision-Date: 2023-05-04 20:06+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../pledge_2023.rst:3
+msgid ""
+"The 2023 Election Pledge of the Ice Party, a political party for the "
+"employment ice age generation"
+msgstr "氷党結党宣言並びに2023年度選挙公約"
+
+#: ../../pledge_2023.rst
+msgid "author"
+msgstr "author"
+
+#: ../../pledge_2023.rst:5
+msgid "Akihiro Kuroiwa"
+msgstr "Akihiro Kuroiwa"
+
+#: ../../pledge_2023.rst
+msgid "date"
+msgstr "date"
+
+#: ../../pledge_2023.rst:6
+msgid "2023/04/10"
+msgstr "2023/04/10"
+
+#: ../../pledge_2023.rst
+msgid "abstract"
+msgstr "abstract"
+
+#: ../../pledge_2023.rst:7
+msgid ""
+"\"The Party of the Lost Generation\" is known as \"The Ice Party\" in "
+"Japan, as the \"Lost Generation\" is referred to as the \"employment ice "
+"age generation\". As one of the founders of the Ice Party, I am writing "
+"this manifesto."
+msgstr "「失われた世代の党」は、日本語で「失われた世代」を「就職氷河期世代」と呼ぶことから、日本語の名称は「氷党」とする。私は氷党結党発起人として、この檄文を書く。"
+
+#: ../../pledge_2023.rst:11
+msgid ""
+"In Japan, the policy of \"employment mobility\" by Mr. Heizo Takenaka has"
+" led to an increase in non-regular employment and forced more people to "
+"live unstable lives. Furthermore, there is a strong trend of valuing "
+"seniority of employers, and due to the extreme practice of emphasizing "
+"work experience, those who were not recruited as new graduates have had "
+"difficulty finding employment or have not been fairly evaluated for their"
+" abilities. The purpose of our founding is to improve this situation and "
+"revise the law so that future young generations will not suffer the same "
+"fate."
+msgstr "日本は、竹中平蔵氏の「雇用の流動化」政策により非正規雇用が増え、不安定な生活を送らざるを得ない人々が増えた。また、採用者の年功序列を重視する風潮が強く、極端に勤務経験を重視する慣行から、新卒採用されなかった人々が、なかなか就職できなかったり、実力を正当に評価されてこなかった。このような酷い仕打ちを受けてきた我々の世代が状況を改善し、これからの若者世代が同じ目に遭わないように法改正することが結党の趣旨だ。"
+
+#: ../../pledge_2023.rst:20
+msgid ""
+"As representatives of the people, members of the National Diet value "
+"international cooperation and prefer those without discriminatory "
+"attitudes. In addition, they require policy-making abilities for problem-"
+"solving. In this age of widespread internet usage, we must use `social "
+"media to deepen discussions "
+"<https://www.facebook.com/groups/433139098962313>`__ and send capable "
+"representatives who possess such abilities to the National Diet. The Ice "
+"Party's 2023 election platform mainly focuses on SDGs, particularly "
+"environmental and labor issues, and is based on the introduction of "
+"Pigouvian taxes. It is in line with the economic policies I wrote about "
+"in the `Silent Genocide <http://akuroiwa.env-"
+"reform.com/en/onihei/index.html>`__ of 2021."
+msgstr ""
+"国民の代表者たる国会議員は、国際協調を重視し、差別意識の無い者が好まれる。また、問題解決のための政策立案能力が問われる。インターネットの普及した現代においてSNSを活用し議論を深め、そのような能力のある適任者を我々の代表として国会に送り込まねばならない。氷党が主張する2023年の選挙公約は、主に環境や労働問題を中心としたSDGsの、ピグー税導入による解決であり、2021年の"
+" `静かなる虐殺 <http://akuroiwa.env-reform.com/en/onihei/index.html>`__ "
+"で私が著した経済政策に沿うものとする。"
+
+#: ../../pledge_2023.rst:31
+msgid ""
+"Here is our 2023 election platform. Those who agree with the founding "
+"purpose and this platform are invited to join as members or candidates, "
+"regardless of age or gender. If you agree with our purpose, you can "
+"establish a branch of the Ice Party in any country or region. "
+"Notification of the party formation will be made immediately if there is "
+"more than one candidate."
+msgstr "以下は2023年度の選挙公約案だ。結党の趣旨と、この公約案に賛同する者は、党員として、候補者として、老若男女に関わらず参加を決めてほしい。我々の趣旨に賛同するならば、いかなる国や地域に氷党支部を設立しても構わない。候補者が一人でも立候補すれば、直ちに政党の届け出を行う。"
+
+#: ../../pledge_2023.rst:40
+msgid "Employment Measures"
+msgstr "雇用対策"
+
+#: ../../pledge_2023.rst:43
+msgid "Increasing stable employment and addressing the declining birthrate issue"
+msgstr "安定した雇用を増やし、少子化を解決する"
+
+#: ../../pledge_2023.rst:45
+msgid ""
+"Employment measures for the \"employment ice age generation\" can also "
+"serve as measures for the declining birthrate issue. As mentioned "
+"earlier, recurrent education and reskilling are necessary for job seekers"
+" and companies that require new skills. We must evaluate abilities based "
+"on concrete and objective standards, rather than vague and unfounded "
+"employment and promotion standards based on seniority, and regulate them."
+msgstr ""
+"就職氷河期世代の雇用対策は少子化対策にもなる。\n"
+"前書でも述べたが、リカレント教育とリスキリングは、求職者にも、新たな能力を必用とする企業にも必要だ。\n"
+"年功序列に基づいた「経験」という曖昧で根拠のない採用基準や昇進基準で能力を評価すべきでなく、これらを規制しなければならない。"
+
+#: ../../pledge_2023.rst:48
+msgid "Introduction of Pigouvian Taxes"
+msgstr "ピグー税の導入"
+
+#: ../../pledge_2023.rst:50
+msgid ""
+"We will consider regulating or even banning temporary staffing agencies "
+"to prevent forced non-regular employment. As mentioned earlier, we will "
+"introduce Pigouvian taxes to encourage employers to convert non-regular "
+"employees into regular employees."
+msgstr ""
+"人材派遣業の規制もしくは禁止を検討し、非正規雇用を強制されないようにする。\n"
+"また、前書に記した通り、非正規雇用の正社員化のためにピグー税を導入する。"
+
+#: ../../pledge_2023.rst:53
+msgid "Simplification and Cost Reduction of Entrepreneurship"
+msgstr "創業の簡素化と低費用化"
+
+#: ../../pledge_2023.rst:55
+msgid ""
+"Cloud services provide online support for document preparation, which is "
+"essential for entrepreneurship, but this should be a responsibility of "
+"the government. We should make it easy and inexpensive to start a "
+"business, similar to what is possible in New Zealand."
+msgstr "クラウドサービスが創業に必用な書類作成支援をオンラインで行っているが、本来は政府がすべきことだ。ニュージーランド並みに簡単に安い費用で創業出来るようにすべきだ。"
+
+#: ../../pledge_2023.rst:58
+msgid "Prohibition of Forced Collection Other Than Taxes"
+msgstr "課税以外の強制徴収の禁止"
+
+#: ../../pledge_2023.rst:60
+msgid ""
+"We will not allow forced collection other than taxes, such as social "
+"insurance premiums and national pensions. It is difficult for low-income "
+"households to bear these costs, especially in the current environment "
+"where the wealth gap is widening, and the government budget should cover "
+"them."
+msgstr "社会保険料や国民年金等、課税以外の強制徴収を認めない。貧富の差が拡大した現在において、特に低所得世帯にこれらの負担を強いるのは難しく、政府予算で補うべきだ。"
+
+#: ../../pledge_2023.rst:62
+msgid ""
+"In addition, we will stop collecting NHK reception fees and provide "
+"support from the government budget. We will also promote partial "
+"privatization, such as advertising placement, and enhance internet "
+"streaming services while securing revenue sources that do not rely on "
+"reception fees."
+msgstr "また、NHKの受信料徴収をやめ、政府予算から支出する。広告掲載等の一部民営化を更に促す。ネット配信事業の充実を促し、受信料に頼らない収益源を確保させる。"
+
+#: ../../pledge_2023.rst:66
+msgid "Industrial Promotion Policy"
+msgstr "産業振興策"
+
+#: ../../pledge_2023.rst:69
+msgid "Implementing Pigouvian Tax to Achieve SDGs"
+msgstr "SDGs実現のためのピグー税導入"
+
+#: ../../pledge_2023.rst:71
+msgid ""
+"Pigouvian tax in environmental economics is considered a means to achieve"
+" SDGs, and corporate contributions will determine the corporate tax rate "
+"and tariff."
+msgstr "環境経済学のピグー税をSDGs実現の手段とみなし、企業の貢献度合いにより法人税率や関税を決める。"
+
+#: ../../pledge_2023.rst:73
+msgid ""
+"Specifically, companies certified by organizations designated by the "
+"government as SDGs certification bodies receive preferential corporate "
+"tax rates."
+msgstr "具体的には、政府がSDGs認証機関に指定した団体から認証を受けた企業は法人税率を優遇される。"
+
+#: ../../pledge_2023.rst:76
+msgid "Public Projects Funded by Market Procurement"
+msgstr "資金を市場調達する公共事業"
+
+#: ../../pledge_2023.rst:78
+msgid ""
+"Funding will be procured from the market through the issuance of ETFs, "
+"REITs, and other means without relying on government budgets."
+msgstr "政府予算に頼らず、ETFやREIT等の発行により市場から資金調達する。"
+
+#: ../../pledge_2023.rst:80
+msgid "Prioritize repairs."
+msgstr "修繕を優先する。"
+
+#: ../../pledge_2023.rst:81
+msgid "Develop central core cities and alleviate overconcentration in Tokyo."
+msgstr "中枢中核都市の整備と東京一極集中の軽減。"
+
+#: ../../pledge_2023.rst:82
+msgid "Develop core cities as agricultural corporate bases."
+msgstr "農業法人の拠点としての中枢中核都市の整備。"
+
+#: ../../pledge_2023.rst:83
+msgid ""
+"Encourage the formation of power-to-gas consortia and actively adopt them"
+" in public projects."
+msgstr "power2gasのコンソーシアム結成を促し、公共事業に積極採用する。"
+
+#: ../../pledge_2023.rst:84
+msgid "Support the development and commercialization of printable circuits."
+msgstr "印刷できる回路の開発と製品化を支援する。"
+
+#: ../../pledge_2023.rst:85
+msgid ""
+"Mandate the development of government expenditure system development "
+"software as open-source."
+msgstr "政府支出のシステム開発のオープンソースを義務化する。"
+
+#: ../../pledge_2023.rst:86
+msgid "Replace the Individual Number Card with biometric authentication."
+msgstr "マイナンバーカードを生体認証に置き換える。"
+
+#: ../../pledge_2023.rst:87
+msgid ""
+"Regulate lobbyists such as the Japan Medical Association and Nippon "
+"Keidanren."
+msgstr "日本医師会や経団連のようなロビーストの活動を規制する。"
+
+#: ../../pledge_2023.rst:88
+msgid ""
+"Abolish the family doctor system and lift the ban on companies entering "
+"hospital management."
+msgstr "かかりつけ医制度を廃止し、民間企業による病院経営への参入を解禁する。"
+
+#: ../../pledge_2023.rst:90
+msgid ""
+"To achieve the third goal, we will improve employment training for the "
+"agriculture, forestry, and fisheries industries and increase the number "
+"of people who migrate to rural areas. In addition, the government and "
+"local governments will act as intermediaries in leasing farmland to "
+"individuals and agricultural corporations who want to start farming."
+msgstr ""
+"3番目の実現のために、農林水産業向けの就業訓練の充実を図り、地方への移住者を増やす。\n"
+"また、農業を始めようとする個人や農業法人のために、農地の貸借を政府や自治体が仲介する。"
+
+#: ../../pledge_2023.rst:93
+msgid ""
+"The fourth goal will be spread throughout the country as Japan's version "
+"of the Green New Deal."
+msgstr "4番目はグリーン・ニューディールの日本版として全国に普及させる。"
+
+#: ../../pledge_2023.rst:95
+msgid ""
+"For the sixth goal, the government will mandate that software developed "
+"with taxpayer money and commissioned for development must be developed as"
+" open-source. The government will actively utilize open-source and pay "
+"developers and projects the appropriate compensation. We will support "
+"companies that adopt open source as a strategy, like major American IT "
+"companies."
+msgstr "6番目については、政府が費用を支出し開発を依頼するソフトウェアはオープンソースで開発することを義務付ける。オープンソースを積極活用し、開発者やプロジェクトに応分の報酬を支払う。アメリカの大手IT企業のようにオープンソースを戦略として採用する企業を支援する。"
+
+#: ../../pledge_2023.rst:101
+msgid "Foreign Policy"
+msgstr "外交政策"
+
+#: ../../pledge_2023.rst:103
+msgid ""
+"Cooperation between Japan and South Korea is essential for security in "
+"East Asia, and it is desirable to maintain friendly relations with South "
+"Korea."
+msgstr "日本と韓国の協力は東アジアの安全保障において欠かせない。韓国との友好を維持することが望まれる。"
+
+#: ../../pledge_2023.rst:105
+msgid ""
+"As the number of people who know about the prewar period decreases and "
+"the postwar generation becomes the majority, parliamentarians born after "
+"the war need to accurately understand the actual situation of prewar "
+"colonial rule and the history of postwar reparations. This also applies "
+"to the members of the National Assembly of South Korea."
+msgstr "戦前のことを知る者が減り、戦後世代が多数を占める今、戦前の植民地支配の実態と戦後賠償の経緯を戦後生まれの国会議員は正確に知る必要がある。勿論、それは韓国の国会議員にも該当する。"
+
+#: ../../pledge_2023.rst:107
+msgid ""
+"To achieve this, people who have knowledge of the history of post-war "
+"reparations should be invited to a committee set up in the Diet and asked"
+" to testify. The results of the investigation should then be used as the "
+"government's official opinion."
+msgstr "韓国への戦後賠償の経緯を知る人々を国会内に設置する委員会に招き、証言してもらい、調査結果を政府の公式見解とする。"
+
