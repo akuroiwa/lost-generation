@@ -11,6 +11,7 @@ Welcome to pledge-2023's documentation!
    :caption: Contents:
 
    pledge_2023
+   pledge_2024
 
 
 

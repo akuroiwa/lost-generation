@@ -8,8 +8,8 @@
 
 project = 'pledge-2023'
 copyright = '2023, Akihiro Kuroiwa'
-author = 'Akihiro Kuroiwa'
-release = '0.0.1'
+author = 'Akihiro Kuroiwa, ChatGPT of OpenAI, Perplexity AI'
+release = '0.0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

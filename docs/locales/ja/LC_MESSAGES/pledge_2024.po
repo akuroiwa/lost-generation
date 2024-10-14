@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Akihiro Kuroiwa
+# This file is distributed under the same license as the pledge-2023
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pledge-2023 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-14 19:59+0900\n"
+"PO-Revision-Date: 2024-10-14 20:37+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../pledge_2024.rst:2
+msgid "2024 Election Platform"
+msgstr "2024年度選挙公約"
+
+#: ../../pledge_2024.rst
+msgid "author"
+msgstr "author"
+
+#: ../../pledge_2024.rst:4
+msgid "Akihiro Kuroiwa, ChatGPT of OpenAI, Perplexity AI"
+msgstr "Akihiro Kuroiwa, ChatGPT of OpenAI, Perplexity AI"
+
+#: ../../pledge_2024.rst
+msgid "date"
+msgstr "date"
+
+#: ../../pledge_2024.rst:5
+msgid "2024/10/13"
+msgstr "2024/10/13"
+
+#: ../../pledge_2024.rst:7
+msgid "Dear fellow citizens,"
+msgstr "親愛なる皆様へ、"
+
+#: ../../pledge_2024.rst:9
+msgid ""
+"When we announced our party’s formation and platform in 2023, we "
+"regrettably did not find any candidates willing to run for office. The "
+"Japanese electoral system requires a substantial deposit for candidacy, "
+"which poses a significant barrier. However, if there are individuals who "
+"resonate with our ideals and platform and can manage this financial "
+"burden, we strongly encourage you to consider running as a candidate."
+msgstr "2023年に我々が結党宣言と公約を発表した際、残念ながら立候補者を見出すことはできませんでした。日本の選挙制度では、立候補に多額の供託金が必要であり、これが大きな障壁となっています。しかし、我々の理念と公約に共感し、この負担を担える方がいらっしゃれば、ぜひとも立候補をご検討ください。"
+
+#: ../../pledge_2024.rst:16
+msgid ""
+"Furthermore, to fully establish our activities as a political party, we "
+"need a certain number of party members. We warmly welcome anyone who "
+"agrees with our principles to join us. Once we gather sufficient members,"
+" we intend to officially register as a political party, enabling us to "
+"operate on a more solid foundation."
+msgstr "また、政党としての活動を本格化させるためには、一定数の党員が必要です。我々の理念に賛同される方々のご参加を心よりお待ちしております。十分な数の党員が集まれば、正式に政党として届け出を行い、より強固な基盤のもとで活動を展開していく所存です。"
+
+#: ../../pledge_2024.rst:22
+msgid ""
+"Below, we present our key policy promises. Through these policies, we aim"
+" to create a better society for all generations, including the employment"
+" ice age generation and beyond."
+msgstr "以下に、我々の主要な公約をご紹介いたします。これらの政策を通じて、就職氷河期世代をはじめとする全ての世代の方々にとって、より良い社会の実現を目指してまいります。"
+
+#: ../../pledge_2024.rst:27
+msgid "Open-Source Software Development"
+msgstr "オープンソース・ソフトウェアとしての開発"
+
+#: ../../pledge_2024.rst:29
+msgid ""
+"As part of our new platform, we propose an innovative approach to "
+"government software development projects. We will transition from the "
+"traditional corporate-based contracting system to directly commissioning "
+"individual developers. Compensation will be disbursed through platforms "
+"such as GitHub Sponsors, enhancing transparency and efficiency. "
+"Furthermore, all developed software will be released as open-source. This"
+" initiative not only aims to improve the quality of Japan’s public "
+"systems but also serves as a form of international contribution by "
+"supporting public system development in countries worldwide. Through this"
+" endeavor, we seek to foster global cooperation, promote technological "
+"innovation, and achieve more efficient and transparent administrative "
+"systems."
+msgstr ""
+"我々の新たな公約として、政府のソフトウェア開発プロジェクトの革新的な取り組みを提案します。従来の企業単位での発注方式を改め、個人の開発者に直接発注する仕組みを導入します。報酬の支払いはGitHub"
+" "
+"Sponsorsなどのプラットフォームを活用し、透明性と効率性を高めます。さらに、開発されたソフトウェアはすべてオープンソースとして公開します。これにより、日本の公共システムの質を向上させるだけでなく、世界各国の公共システム開発を支援する国際貢献の一環としても位置づけます。この取り組みを通じて、グローバルな協力関係を築き、技術革新を促進し、より効率的で透明性の高い行政システムの実現を目指します。"
+
+#: ../../pledge_2024.rst:43
+msgid "Introduction of Basic Income"
+msgstr "ベーシックインカムの導入"
+
+#: ../../pledge_2024.rst:45
+msgid ""
+"We will unify the existing social security systems, including pensions "
+"and unemployment benefits, into a Basic Income system. This will ensure a"
+" minimum standard of living for all citizens while streamlining welfare "
+"programs. In conjunction with this, we will provide vocational training, "
+"job placement support, and loans for start-up capital to foster new "
+"industries. Additionally, we will enhance recurrent education "
+"opportunities, allowing job seekers to continuously reskill and upskill."
+msgstr "年金や失業給付を含む現行の社会保障制度をベーシックインカムに統一します。これにより、国民全体に最低限の生活を保障し、福祉制度の効率化を図ります。同時に、職業訓練や就職支援、新規産業育成のための創業資金の融資を行います。また、求職者向けにはリカレント教育を強化し、常に学び直しができる環境を整備します。"
+
+#: ../../pledge_2024.rst:54
+msgid "Industrial Support Measures"
+msgstr "産業支援策"
+
+#: ../../pledge_2024.rst:56
+msgid ""
+"We will actively attract venture capital to support the launch of new "
+"industries in Japan. A preferential tax system will be introduced to "
+"encourage such investments. At the same time, the current convoy system "
+"of banking will be abolished, and bailouts will be limited to depositors’"
+" protection. This will restore banks to their original purpose of "
+"supporting new ventures through loans."
+msgstr "ベンチャーキャピタルの誘致を積極的に行い、国内での新規産業の立ち上げを支援します。特に税制面での優遇措置を導入し、銀行の護送船団方式を廃止することで、融資の本来の役割である新規事業の支援を強化します。銀行の救済は預金者保護のみに限り、融資の正常化を図ります。"
+
+#: ../../pledge_2024.rst:64
+msgid "Central Bank Digital Currency (CBDC)"
+msgstr "中央銀行デジタル通貨 (CBDC)"
+
+#: ../../pledge_2024.rst:66
+msgid ""
+"The central bank digital currency will be developed as a **stablecoin** "
+"based on blockchain technology and will be linked to biometric "
+"authentication. This currency will also function as a replacement for the"
+" My Number card, strengthening the foundation for a more digitalized "
+"society."
+msgstr "中央銀行デジタル通貨はBlockchain技術を元にした**ステーブルコイン**として開発し、生体認証と連携させます。この通貨はマイナンバーカードに代わる新たな個人認証手段としても機能させ、デジタル化社会への基盤を強化します。"
+
+#: ../../pledge_2024.rst:73
+msgid "Transition of Broadcasting to the Internet"
+msgstr "放送とインターネットの再編"
+
+#: ../../pledge_2024.rst:75
+msgid ""
+"We will transition television broadcasting entirely to the internet, "
+"utilizing the freed-up radio frequencies to promote free internet access "
+"across the nation. This will help bridge the digital divide and enhance "
+"the country’s communications infrastructure."
+msgstr "テレビ放送をインターネットに全面移行し、解放された電波帯を利用して無料のインターネット接続を推進します。この政策により、情報格差の是正を図り、全国的な通信インフラの強化を目指します。"
+
+#: ../../pledge_2024.rst:81
+msgid "Tax Reform"
+msgstr "税制改革"
+
+#: ../../pledge_2024.rst:83
+msgid ""
+"We will abolish earmarked taxes and integrate them into the general "
+"budget. In addition, essential goods will be exempt from consumption tax "
+"to create a fairer tax system. Taxes on stock transactions will be "
+"limited to consumption tax and will only apply to high-value "
+"transactions. **The NISA system will be abolished.**"
+msgstr "目的税を廃止し、一般財源として統合します。また、消費税の対象から生活必需品を除外し、より公平な税制を実現します。株式取引に課される税を消費税のみに絞り、高額取引にのみ適用します。**NISA制度は廃止**します。"
+
+#: ../../pledge_2024.rst:90
+msgid "Environmental Consumption Tax"
+msgstr "環境消費税"
+
+#: ../../pledge_2024.rst:92
+msgid ""
+"An environmental consumption tax will be introduced to promote eco-"
+"friendly consumption behaviors. This tax will incentivize the adoption of"
+" environmentally sustainable practices across society."
+msgstr "環境消費税を導入し、環境に優しい消費行動を促進します。"
+
+#: ../../pledge_2024.rst:97
+msgid "Promotion of SDGs"
+msgstr "SDGs推進"
+
+#: ../../pledge_2024.rst:99
+msgid ""
+"To promote the achievement of Sustainable Development Goals (SDGs), the "
+"government will certify institutions that assess private companies’ "
+"contributions to SDGs. Certified companies will benefit from preferential"
+" rates on corporate taxes and tariffs, encouraging more corporations to "
+"adopt environmentally and socially responsible practices."
+msgstr ""
+"持続可能な開発目標 (SDGs) "
+"を推進するため、民間企業のSDGs貢献度を評価する認証機関を政府が認定します。認定を受けた企業には法人税や関税で優遇措置を適用し、環境や社会に貢献する企業活動を促進します。"
+
+#: ../../pledge_2024.rst:107
+msgid ""
+"Countermeasures Against Depopulation and Support for Agriculture, "
+"Forestry, and Fisheries"
+msgstr "過疎化対策と農林水産業支援"
+
+#: ../../pledge_2024.rst:109
+msgid ""
+"We will support municipalities that offer farming assistance to address "
+"depopulation in rural areas. Measures will also be implemented to promote"
+" the revitalization of rural regions by developing railway stations into "
+"multipurpose facilities, including hotels, condominiums, and other "
+"commercial spaces. We will attract real estate investment to help "
+"maintain unprofitable railway lines. Furthermore, unprofitable bus and "
+"train routes will receive subsidies based on their contributions to local"
+" communities."
+msgstr "過疎化が進む地域の就農支援や農林水産業の振興を図るため、自治体の取り組みを支援します。鉄道駅の立体交差化や、駅にホテルやコンドミニアムの入る複合ビル化を進め、不動産資本を誘致して赤字路線の維持に役立てます。また、バスや列車の赤字路線の運営を地域貢献度で評価し、適切な補助金を交付します。"
+
+#: ../../pledge_2024.rst:118
+msgid ""
+"We will support the introduction of robotics and data science in "
+"agriculture, forestry, and fisheries, encouraging private companies to "
+"enter these sectors."
+msgstr "農林水産業のロボティクスやデータサイエンスの導入を支援します。民間企業の参入を促します。"
+
+#: ../../pledge_2024.rst:123
+msgid "Promotion of New Materials and Construction Methods"
+msgstr "新材料・新工法の促進"
+
+#: ../../pledge_2024.rst:125
+msgid ""
+"We will encourage the adoption of new building materials and construction"
+" methods. `The certification system under Article 20 of the Building "
+"Standards Act "
+"<https://www.mlit.go.jp/jutakukentiku/build/jutakukentiku_house_tk_000195.html>`__"
+" will be actively utilized to promote the swift implementation of "
+"innovative technologies."
+msgstr "新しい建築材料や工法の導入を奨励し、 `建築基準法第20条に基づく大臣認定制度 <https://www.mlit.go.jp/jutakukentiku/build/jutakukentiku_house_tk_000195.html>`__ を活用して、より迅速な普及を目指します。"
+
+#: ../../pledge_2024.rst:133
+msgid "Reform of Pharmaceutical Regulations"
+msgstr "医薬品開発と治験の改革"
+
+#: ../../pledge_2024.rst:135
+msgid ""
+"We will reduce the burden on pharmaceutical companies by revising the "
+"evaluation and testing methods for drugs to eliminate long-term clinical "
+"trials. Medicines approved or banned in the U.S. and Europe will be "
+"quickly applied in Japan, streamlining the approval process."
+msgstr "製薬会社の負担を軽減し、治験の長期化を解消するため、薬剤評価方法の見直しを行います。米国や欧州で承認された薬剤を迅速に日本での使用を認める制度を導入し、国際的な標準に基づく医薬品の利用を促進します。"
+
+#: ../../pledge_2024.rst:141
+msgid "Increased Transparency in Public Sector Contracting"
+msgstr "公共部門の透明化"
+
+#: ../../pledge_2024.rst:143
+msgid ""
+"Temporary staffing agencies and their related companies will be banned "
+"from contracting with the public sector. Discretionary contracts will be "
+"prohibited to foster new market entrants and increase competition in "
+"public procurement, ensuring transparency and accountability in "
+"government contracts."
+msgstr "人材派遣会社やその関連会社を公共部門から排除し、公共事業の透明性を高めます。随意契約を禁止し、広く新規参入を促すことで競争力のある市場を形成します。"
+
